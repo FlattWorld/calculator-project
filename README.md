@@ -11,7 +11,7 @@ Hello FlattWorldnian, in this exercise you will need to create the webpage desig
 1.- First you need to download this repository.
 
  ```sh
-  $ git clone TODO
+  $ git clone https://github.com/FlattWorld/calculator-project.git
   ```
 2.- Then open the project directory with your text editor.
 
