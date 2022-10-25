@@ -16,8 +16,6 @@ Hello FlattWorldnian, in this exercise you will need to create the webpage desig
 2.- Then open the project directory with your text editor.
 
 3.- Check the HTML file, you will need to note the id of the div, all your javascript code will be appending into that one div.
-### NOTE
-You should NOT edit the HTML file.
 
 4.- Create a new branch
 
@@ -27,7 +25,20 @@ You should NOT edit the HTML file.
 
   ** Dont Forget to change [NombreDeTuRama] with a different name eg: abelPage **
 
-5.- Start working on the Javascript file.
+5.- Start working on the Project!
+
+  Lint JavaScript file using
+  ```sh
+  $ git run eslint
+  ```
+
+  Lint CSS file
+  ```sh
+  $ git run stylelint
+  ```
+
+
+## Using Linters
 
 ## Useful Links
 
